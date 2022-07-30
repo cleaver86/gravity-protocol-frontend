@@ -1,4 +1,4 @@
-import TestButton from "../components/Button";
+import TestButton from '../components/Button'
 
 function HomePage() {
   return (
@@ -6,7 +6,7 @@ function HomePage() {
       <h1>Gravity</h1>
       <TestButton />
     </div>
-  );
+  )
 }
 
-export default HomePage;
+export default HomePage
